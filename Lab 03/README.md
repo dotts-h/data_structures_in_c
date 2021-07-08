@@ -1,8 +1,6 @@
 # Lab_3 - Linked Lists
 
-## Exercise_1
-
-### Operatii Principale - Main Operations
+## Operatii Principale - Main Operations
 
 > Sa se implementeze urmatoarele operatii de baza ce pot fi selectate prin intermediul unui meniu principal si mai multe sub-meniuri.
 > Implement the following basic operations which can be selected via a main meniu and sub-menus.
@@ -19,7 +17,7 @@
 - Print
 - Destroy
 
-### Operatii Extinse - Extra Operations
+## Operatii Extinse - Extra Operations
 
 > Sa se adauge optiunea "Operatii extinse" la meniul principal ce va permite urmatoarele:
 > Add to the main menu the option "Extra Operations" which will provide the following functionalities:
@@ -32,12 +30,3 @@
 - Required features:
   - Find the oldest person(for a given name)
   - Find the most popular name
-
-## Exercise_2
-
-### Operatii Principale - Main Operations
-
-> Sa se implementeze urmatoarele operatii de baza ce pot fi selectate prin intermediul unui meniu principal si mai multe sub-meniuri
-> Implement the following basic operations which can be selected via a main meniu and sub-menus.
-
--
